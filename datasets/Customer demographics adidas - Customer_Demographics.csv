@@ -1,0 +1,301 @@
+Customer_ID,Age,Gender,Region,Income_Level,Membership_Since,Preferred_Channel
+CUST0001,24,Female,North America,Medium,2019-01-24,Online
+CUST0002,32,Other,Middle East,High,2017-07-12,Online
+CUST0003,21,Other,Asia-Pacific,High,2023-05-25,Online
+CUST0004,51,Female,South America,Premium,2015-11-01,Online
+CUST0005,25,Male,Asia-Pacific,High,2018-01-28,Online
+CUST0006,62,Male,Middle East,Medium,2015-08-29,Online
+CUST0007,23,Male,North America,Medium,2021-01-25,Online
+CUST0008,49,Male,South America,Medium,2023-01-22,Online
+CUST0009,24,Other,Middle East,Medium,2018-05-14,Online
+CUST0010,29,Other,Middle East,Premium,2024-12-27,Online
+CUST0011,34,Female,South America,High,2020-10-11,Store
+CUST0012,63,Female,North America,Low,2023-05-27,Online
+CUST0013,55,Male,Middle East,Medium,2019-04-15,Store
+CUST0014,57,Other,Middle East,Low,2024-08-26,Store
+CUST0015,41,Other,North America,High,2022-02-06,Store
+CUST0016,57,Male,Asia-Pacific,High,2019-09-10,Online
+CUST0017,35,Male,South America,Low,2018-02-06,Store
+CUST0018,45,Male,Asia-Pacific,Low,2023-06-03,Online
+CUST0019,62,Other,North America,Premium,2018-01-25,Online
+CUST0020,36,Other,South America,Premium,2017-05-16,Online
+CUST0021,29,Male,North America,Medium,2022-05-27,Store
+CUST0022,55,Other,South America,Premium,2016-02-16,Store
+CUST0023,48,Other,Europe,Premium,2017-04-04,Online
+CUST0024,54,Male,South America,Low,2019-10-17,Online
+CUST0025,42,Other,Asia-Pacific,Premium,2018-08-23,Store
+CUST0026,25,Male,Europe,Low,2020-02-24,Store
+CUST0027,38,Other,Europe,Low,2021-07-23,Store
+CUST0028,65,Male,Middle East,Low,2019-10-05,Store
+CUST0029,25,Female,South America,High,2024-05-05,Online
+CUST0030,49,Male,Europe,High,2022-12-05,Online
+CUST0031,22,Male,Middle East,High,2021-09-06,Online
+CUST0032,61,Male,South America,Low,2018-08-23,Store
+CUST0033,28,Other,Europe,Premium,2022-04-23,Online
+CUST0034,62,Other,North America,High,2021-05-22,Online
+CUST0035,56,Female,Asia-Pacific,Low,2017-01-09,Store
+CUST0036,41,Male,Middle East,Low,2016-08-26,Store
+CUST0037,48,Other,Middle East,Medium,2016-12-18,Store
+CUST0038,49,Male,Asia-Pacific,Medium,2015-11-21,Store
+CUST0039,27,Female,South America,Premium,2025-04-06,Online
+CUST0040,54,Female,Europe,High,2020-09-30,Store
+CUST0041,51,Other,Europe,Medium,2018-05-03,Online
+CUST0042,48,Male,Middle East,Low,2019-08-01,Online
+CUST0043,59,Other,North America,Premium,2025-08-03,Online
+CUST0044,27,Other,Europe,Low,2021-10-16,Store
+CUST0045,18,Female,North America,Medium,2022-04-29,Online
+CUST0046,42,Other,Asia-Pacific,Medium,2018-05-22,Store
+CUST0047,49,Other,Asia-Pacific,High,2016-07-11,Online
+CUST0048,53,Other,Europe,Medium,2020-12-09,Store
+CUST0049,61,Male,North America,High,2017-11-02,Store
+CUST0050,53,Female,North America,Low,2024-11-07,Online
+CUST0051,52,Other,Europe,Medium,2023-10-23,Store
+CUST0052,55,Other,Asia-Pacific,Medium,2019-03-05,Online
+CUST0053,53,Female,North America,Low,2019-05-22,Online
+CUST0054,57,Female,North America,Medium,2017-04-24,Online
+CUST0055,61,Other,South America,Low,2022-01-11,Store
+CUST0056,34,Male,Asia-Pacific,Premium,2019-01-24,Online
+CUST0057,25,Other,South America,Premium,2016-04-30,Store
+CUST0058,62,Male,Asia-Pacific,Medium,2018-03-26,Store
+CUST0059,41,Female,South America,High,2018-09-09,Store
+CUST0060,51,Male,Asia-Pacific,High,2017-06-27,Online
+CUST0061,57,Female,Middle East,Premium,2020-08-01,Online
+CUST0062,41,Male,Middle East,Premium,2021-05-15,Store
+CUST0063,53,Female,North America,Premium,2024-10-22,Online
+CUST0064,55,Male,Europe,Medium,2017-01-08,Store
+CUST0065,63,Male,Europe,Premium,2024-02-12,Store
+CUST0066,54,Other,Asia-Pacific,High,2018-06-14,Online
+CUST0067,51,Male,South America,Low,2025-04-24,Store
+CUST0068,25,Female,Middle East,Low,2019-12-07,Store
+CUST0069,28,Female,Asia-Pacific,Medium,2022-02-27,Online
+CUST0070,40,Male,South America,Low,2017-06-04,Store
+CUST0071,53,Other,Asia-Pacific,Medium,2022-06-26,Online
+CUST0072,46,Other,South America,Low,2021-03-25,Online
+CUST0073,38,Other,Europe,Premium,2022-04-28,Store
+CUST0074,22,Male,Asia-Pacific,Medium,2016-07-04,Store
+CUST0075,19,Female,Asia-Pacific,Premium,2021-12-05,Online
+CUST0076,41,Other,North America,Low,2019-10-23,Store
+CUST0077,63,Male,Europe,Premium,2021-02-18,Online
+CUST0078,63,Male,South America,Medium,2021-08-07,Online
+CUST0079,41,Male,Europe,Low,2017-01-09,Online
+CUST0080,35,Other,Middle East,High,2021-12-31,Store
+CUST0081,46,Other,Asia-Pacific,High,2024-03-15,Online
+CUST0082,23,Other,Asia-Pacific,Low,2024-04-05,Online
+CUST0083,39,Male,Middle East,High,2020-06-18,Online
+CUST0084,43,Other,Asia-Pacific,Medium,2024-04-14,Online
+CUST0085,60,Male,Middle East,Premium,2025-03-05,Store
+CUST0086,34,Female,Middle East,High,2025-07-31,Store
+CUST0087,29,Other,North America,High,2018-09-01,Online
+CUST0088,52,Other,South America,High,2023-07-19,Store
+CUST0089,44,Female,Europe,Premium,2017-07-16,Store
+CUST0090,22,Other,South America,Low,2019-07-25,Store
+CUST0091,23,Female,Middle East,High,2025-03-02,Online
+CUST0092,25,Other,Middle East,Medium,2024-08-15,Online
+CUST0093,27,Other,Europe,Premium,2018-06-11,Online
+CUST0094,31,Other,South America,Medium,2017-05-26,Online
+CUST0095,40,Female,North America,Low,2020-11-12,Store
+CUST0096,39,Female,North America,High,2022-03-22,Store
+CUST0097,47,Other,Asia-Pacific,High,2016-03-27,Online
+CUST0098,41,Male,South America,Low,2016-03-24,Store
+CUST0099,46,Female,Europe,High,2019-05-10,Online
+CUST0100,61,Female,Asia-Pacific,High,2025-01-29,Store
+CUST0101,44,Other,South America,Premium,2017-07-18,Store
+CUST0102,61,Male,Middle East,Low,2019-07-27,Online
+CUST0103,47,Male,South America,Premium,2019-02-16,Store
+CUST0104,29,Female,South America,High,2018-06-23,Store
+CUST0105,51,Male,Asia-Pacific,High,2020-03-17,Store
+CUST0106,27,Male,South America,Low,2015-11-02,Store
+CUST0107,37,Other,Middle East,High,2020-10-09,Online
+CUST0108,44,Other,Europe,Premium,2020-08-19,Store
+CUST0109,22,Other,Europe,High,2024-08-06,Store
+CUST0110,47,Male,Asia-Pacific,High,2022-12-25,Store
+CUST0111,21,Male,South America,Premium,2021-01-03,Online
+CUST0112,50,Female,North America,Premium,2019-05-17,Online
+CUST0113,27,Other,Middle East,Low,2016-10-12,Online
+CUST0114,36,Other,South America,High,2019-02-21,Online
+CUST0115,18,Male,South America,High,2024-11-10,Store
+CUST0116,30,Male,Middle East,Low,2024-01-07,Store
+CUST0117,30,Female,Middle East,Premium,2021-01-02,Online
+CUST0118,58,Other,South America,Low,2023-01-03,Store
+CUST0119,57,Male,North America,Medium,2024-11-26,Store
+CUST0120,27,Other,South America,Premium,2022-07-02,Online
+CUST0121,51,Female,Europe,Medium,2016-12-30,Store
+CUST0122,25,Male,Asia-Pacific,Premium,2023-06-13,Store
+CUST0123,61,Other,Middle East,Premium,2020-07-31,Store
+CUST0124,56,Male,Middle East,Premium,2021-08-16,Store
+CUST0125,30,Female,South America,Low,2016-08-29,Online
+CUST0126,50,Other,Asia-Pacific,Medium,2024-07-15,Online
+CUST0127,42,Male,Middle East,Premium,2025-05-25,Store
+CUST0128,58,Male,Middle East,Premium,2023-03-10,Store
+CUST0129,25,Female,Europe,Low,2017-06-01,Store
+CUST0130,39,Male,Asia-Pacific,Medium,2023-10-11,Online
+CUST0131,44,Other,Asia-Pacific,Medium,2020-03-18,Online
+CUST0132,51,Male,South America,Premium,2025-05-31,Store
+CUST0133,58,Other,South America,Low,2018-03-29,Online
+CUST0134,50,Other,Asia-Pacific,Medium,2017-11-26,Store
+CUST0135,63,Other,North America,High,2025-04-26,Store
+CUST0136,60,Other,Middle East,Low,2017-07-07,Online
+CUST0137,56,Female,North America,Low,2024-11-29,Online
+CUST0138,42,Other,Middle East,Medium,2015-10-11,Online
+CUST0139,58,Male,North America,High,2019-10-15,Online
+CUST0140,43,Other,South America,Low,2021-11-23,Online
+CUST0141,20,Other,South America,High,2021-08-24,Online
+CUST0142,33,Female,Asia-Pacific,High,2017-03-22,Online
+CUST0143,23,Male,Asia-Pacific,Low,2022-09-12,Store
+CUST0144,39,Male,Middle East,High,2021-01-06,Online
+CUST0145,58,Female,South America,Premium,2017-03-09,Online
+CUST0146,19,Other,South America,High,2019-09-04,Online
+CUST0147,43,Male,South America,High,2019-02-26,Store
+CUST0148,36,Other,Europe,High,2019-02-13,Online
+CUST0149,64,Female,Middle East,Low,2025-04-04,Online
+CUST0150,52,Female,Asia-Pacific,Premium,2017-10-05,Online
+CUST0151,34,Female,Asia-Pacific,Low,2024-05-24,Online
+CUST0152,36,Female,North America,High,2016-06-29,Online
+CUST0153,32,Other,Europe,Medium,2020-05-13,Store
+CUST0154,43,Other,North America,Premium,2022-06-02,Online
+CUST0155,58,Male,Asia-Pacific,Medium,2019-09-20,Online
+CUST0156,32,Male,Middle East,Low,2024-11-01,Store
+CUST0157,34,Male,Asia-Pacific,Low,2016-06-23,Online
+CUST0158,65,Other,Middle East,Low,2021-08-22,Store
+CUST0159,36,Female,Asia-Pacific,Medium,2016-10-02,Online
+CUST0160,35,Other,South America,High,2021-12-22,Online
+CUST0161,55,Other,Europe,Medium,2021-10-21,Store
+CUST0162,55,Female,Asia-Pacific,Low,2024-07-18,Store
+CUST0163,45,Male,Asia-Pacific,Medium,2015-10-23,Online
+CUST0164,46,Other,Middle East,Medium,2025-06-23,Online
+CUST0165,65,Male,Europe,High,2023-04-25,Online
+CUST0166,49,Other,North America,Medium,2023-11-27,Store
+CUST0167,30,Other,South America,High,2016-08-23,Online
+CUST0168,61,Male,Europe,Medium,2019-08-23,Online
+CUST0169,28,Other,Middle East,Premium,2016-02-20,Store
+CUST0170,47,Male,North America,High,2019-11-10,Store
+CUST0171,61,Other,Europe,Medium,2016-10-22,Online
+CUST0172,49,Other,North America,Premium,2024-11-23,Store
+CUST0173,43,Other,South America,Premium,2023-03-20,Store
+CUST0174,38,Male,South America,Medium,2017-12-06,Online
+CUST0175,40,Other,North America,High,2024-11-25,Online
+CUST0176,59,Female,Middle East,Premium,2025-04-24,Store
+CUST0177,53,Female,Europe,Low,2018-12-08,Online
+CUST0178,32,Other,Asia-Pacific,Premium,2017-01-07,Online
+CUST0179,27,Male,Middle East,Medium,2024-01-26,Online
+CUST0180,57,Male,North America,Premium,2025-08-07,Online
+CUST0181,29,Male,South America,High,2023-05-29,Store
+CUST0182,54,Other,South America,Medium,2020-11-17,Store
+CUST0183,55,Other,Asia-Pacific,Low,2016-02-14,Online
+CUST0184,28,Male,South America,Premium,2023-04-18,Store
+CUST0185,41,Female,Middle East,Low,2021-01-02,Online
+CUST0186,25,Other,Asia-Pacific,Premium,2019-03-26,Online
+CUST0187,36,Male,South America,Premium,2023-03-08,Store
+CUST0188,27,Female,Middle East,Premium,2021-09-03,Online
+CUST0189,21,Female,South America,High,2023-07-30,Store
+CUST0190,29,Other,Europe,Medium,2021-11-12,Online
+CUST0191,47,Other,Asia-Pacific,High,2023-10-23,Online
+CUST0192,44,Female,Middle East,High,2019-03-17,Store
+CUST0193,20,Other,Asia-Pacific,Premium,2016-09-25,Store
+CUST0194,58,Other,North America,Premium,2020-07-30,Store
+CUST0195,56,Other,South America,Medium,2018-03-09,Store
+CUST0196,55,Female,Europe,Low,2021-07-07,Store
+CUST0197,33,Female,Europe,Medium,2022-04-22,Online
+CUST0198,61,Other,Europe,High,2025-03-22,Store
+CUST0199,24,Female,Europe,High,2018-04-24,Online
+CUST0200,28,Male,Europe,High,2024-12-14,Online
+CUST0201,62,Other,Middle East,Low,2016-07-17,Store
+CUST0202,32,Male,South America,Low,2025-02-12,Online
+CUST0203,27,Other,South America,Medium,2015-10-28,Online
+CUST0204,23,Other,North America,Medium,2023-08-30,Store
+CUST0205,29,Female,North America,Premium,2025-06-25,Online
+CUST0206,29,Male,Asia-Pacific,High,2018-03-20,Online
+CUST0207,24,Female,Middle East,Medium,2020-04-07,Store
+CUST0208,43,Other,Asia-Pacific,Premium,2018-07-04,Online
+CUST0209,51,Male,South America,Premium,2018-11-16,Store
+CUST0210,56,Male,Middle East,High,2020-07-01,Online
+CUST0211,39,Female,North America,High,2024-08-10,Online
+CUST0212,55,Other,North America,High,2025-01-20,Store
+CUST0213,22,Other,North America,Medium,2018-06-22,Online
+CUST0214,39,Female,Asia-Pacific,Medium,2021-07-22,Store
+CUST0215,40,Female,South America,Medium,2018-03-01,Store
+CUST0216,32,Other,South America,High,2025-02-25,Store
+CUST0217,24,Male,Asia-Pacific,Premium,2017-01-18,Store
+CUST0218,44,Male,Middle East,High,2025-07-28,Online
+CUST0219,46,Other,Europe,Low,2019-01-11,Online
+CUST0220,28,Other,North America,Premium,2017-04-04,Online
+CUST0221,39,Female,Europe,Premium,2018-05-21,Store
+CUST0222,26,Female,South America,Medium,2016-01-10,Store
+CUST0223,46,Male,North America,Low,2020-01-17,Store
+CUST0224,54,Other,Middle East,Medium,2024-01-04,Online
+CUST0225,47,Female,Middle East,Low,2021-08-18,Store
+CUST0226,63,Male,Asia-Pacific,Medium,2022-08-05,Online
+CUST0227,52,Male,Asia-Pacific,Premium,2025-04-01,Store
+CUST0228,40,Male,Europe,Low,2020-11-26,Store
+CUST0229,22,Female,South America,Premium,2021-10-19,Online
+CUST0230,54,Female,Asia-Pacific,Premium,2022-03-16,Online
+CUST0231,57,Other,Asia-Pacific,Medium,2019-03-09,Store
+CUST0232,31,Other,Middle East,Premium,2017-06-24,Store
+CUST0233,61,Male,Europe,Low,2018-12-30,Online
+CUST0234,46,Female,Middle East,Low,2024-09-18,Online
+CUST0235,60,Other,Europe,Premium,2016-07-01,Store
+CUST0236,65,Male,Middle East,Medium,2021-07-18,Store
+CUST0237,36,Female,Middle East,Low,2016-05-14,Online
+CUST0238,40,Male,Middle East,Medium,2019-10-20,Store
+CUST0239,57,Other,North America,Low,2016-06-08,Store
+CUST0240,39,Other,Asia-Pacific,Medium,2024-08-26,Online
+CUST0241,49,Male,Middle East,High,2019-08-20,Store
+CUST0242,65,Male,Middle East,High,2020-06-02,Store
+CUST0243,44,Male,South America,High,2021-12-11,Store
+CUST0244,40,Female,Middle East,High,2018-08-01,Store
+CUST0245,18,Other,Asia-Pacific,High,2023-05-01,Store
+CUST0246,58,Male,South America,High,2021-07-19,Store
+CUST0247,34,Other,North America,Medium,2019-03-22,Online
+CUST0248,32,Other,Middle East,Medium,2024-03-28,Store
+CUST0249,60,Male,Middle East,Premium,2025-06-30,Online
+CUST0250,22,Female,South America,High,2019-06-17,Online
+CUST0251,55,Other,North America,Low,2024-03-18,Online
+CUST0252,48,Male,South America,High,2022-02-04,Store
+CUST0253,38,Other,Asia-Pacific,Medium,2015-10-09,Store
+CUST0254,52,Male,Middle East,High,2023-04-24,Store
+CUST0255,61,Male,North America,Premium,2025-01-16,Store
+CUST0256,27,Female,Europe,Premium,2024-09-27,Store
+CUST0257,59,Other,Asia-Pacific,High,2017-12-10,Online
+CUST0258,23,Male,Asia-Pacific,High,2021-02-17,Online
+CUST0259,33,Male,Middle East,High,2019-09-25,Store
+CUST0260,62,Male,Asia-Pacific,High,2019-09-04,Store
+CUST0261,22,Male,Asia-Pacific,Medium,2023-01-30,Online
+CUST0262,64,Male,South America,Medium,2017-04-14,Online
+CUST0263,63,Male,Middle East,High,2021-11-03,Online
+CUST0264,28,Male,Middle East,High,2016-11-02,Store
+CUST0265,47,Female,South America,Low,2022-05-03,Store
+CUST0266,26,Female,Europe,Premium,2022-07-10,Store
+CUST0267,39,Female,South America,Low,2017-01-29,Store
+CUST0268,41,Male,Europe,Medium,2019-06-11,Store
+CUST0269,36,Male,Europe,High,2024-01-09,Online
+CUST0270,61,Female,Europe,High,2025-08-04,Store
+CUST0271,58,Female,Asia-Pacific,Premium,2020-06-08,Online
+CUST0272,58,Female,Europe,Low,2025-03-27,Store
+CUST0273,41,Female,South America,High,2016-04-25,Online
+CUST0274,62,Male,Middle East,Low,2016-08-19,Online
+CUST0275,34,Female,North America,Medium,2018-05-28,Store
+CUST0276,52,Male,North America,High,2016-01-06,Store
+CUST0277,52,Other,North America,High,2016-03-25,Store
+CUST0278,56,Female,Asia-Pacific,High,2021-01-06,Online
+CUST0279,24,Male,South America,Low,2020-11-04,Online
+CUST0280,56,Other,South America,High,2022-06-17,Online
+CUST0281,36,Female,Middle East,Medium,2021-10-18,Store
+CUST0282,41,Male,Middle East,Medium,2017-03-17,Online
+CUST0283,36,Other,Middle East,Medium,2019-10-22,Online
+CUST0284,60,Other,North America,High,2015-10-18,Store
+CUST0285,42,Other,Middle East,Low,2023-02-15,Store
+CUST0286,39,Other,North America,Low,2019-12-13,Store
+CUST0287,21,Female,Asia-Pacific,Premium,2020-06-28,Store
+CUST0288,47,Female,South America,High,2015-09-19,Store
+CUST0289,58,Other,Asia-Pacific,Medium,2022-10-26,Online
+CUST0290,61,Male,Europe,Low,2020-07-28,Store
+CUST0291,33,Other,Asia-Pacific,Medium,2024-06-02,Store
+CUST0292,32,Female,North America,Premium,2017-07-05,Store
+CUST0293,54,Male,Europe,High,2023-08-24,Online
+CUST0294,52,Other,Europe,High,2019-08-27,Online
+CUST0295,27,Female,Asia-Pacific,High,2015-12-16,Online
+CUST0296,18,Female,Middle East,Low,2019-08-24,Store
+CUST0297,23,Other,Asia-Pacific,Low,2022-12-30,Online
+CUST0298,34,Male,Europe,High,2020-03-15,Store
+CUST0299,41,Female,North America,Low,2019-11-14,Online
+CUST0300,26,Male,Middle East,Low,2017-04-29,Store

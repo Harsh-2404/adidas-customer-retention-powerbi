@@ -1,0 +1,51 @@
+Store_ID,Store_Type,Region,Opening_Year
+STORE001,Online,South America,2017
+STORE002,Franchise,Asia-Pacific,2011
+STORE003,Franchise,South America,2014
+STORE004,Franchise,Europe,2013
+STORE005,Online,Europe,2014
+STORE006,Outlet,Europe,2015
+STORE007,Online,North America,2017
+STORE008,Outlet,Middle East,2000
+STORE009,Outlet,Middle East,2015
+STORE010,Franchise,Europe,2001
+STORE011,Franchise,North America,2001
+STORE012,Outlet,Middle East,2016
+STORE013,Flagship,South America,2007
+STORE014,Flagship,Europe,2011
+STORE015,Outlet,Asia-Pacific,2013
+STORE016,Outlet,Europe,2006
+STORE017,Flagship,Middle East,2001
+STORE018,Outlet,South America,2015
+STORE019,Flagship,North America,2007
+STORE020,Franchise,Europe,2020
+STORE021,Outlet,North America,2003
+STORE022,Franchise,North America,2024
+STORE023,Franchise,Asia-Pacific,2014
+STORE024,Online,North America,2001
+STORE025,Outlet,North America,2004
+STORE026,Franchise,Asia-Pacific,2010
+STORE027,Franchise,Asia-Pacific,2012
+STORE028,Online,North America,2022
+STORE029,Online,South America,2008
+STORE030,Online,North America,2008
+STORE031,Franchise,Asia-Pacific,2007
+STORE032,Franchise,Middle East,2000
+STORE033,Online,Europe,2010
+STORE034,Online,Europe,2006
+STORE035,Flagship,North America,2013
+STORE036,Flagship,Europe,2010
+STORE037,Franchise,Europe,2012
+STORE038,Flagship,South America,2013
+STORE039,Franchise,North America,2021
+STORE040,Online,Middle East,2001
+STORE041,Online,Middle East,2014
+STORE042,Online,Asia-Pacific,2003
+STORE043,Outlet,Asia-Pacific,2023
+STORE044,Outlet,Middle East,2023
+STORE045,Franchise,North America,2008
+STORE046,Flagship,North America,2003
+STORE047,Franchise,Asia-Pacific,2018
+STORE048,Outlet,North America,2003
+STORE049,Franchise,Europe,2008
+STORE050,Franchise,South America,2019
