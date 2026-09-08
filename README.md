@@ -16,28 +16,28 @@ This project delivers an end-to-end **Interactive Power BI Analytics Dashboard**
 ## 🖼️ Dashboard Architecture & Visual Views
 
 ### Task 2: Churn & Retention Metrics
-> Geographic, income, channel, and loyalty tier breakdown of customer drop-off alongside the conversion funnel.
-![Task 2 - Churn & Retention](screenshots/task2_churn_metrics.png)
+* Geographic, income, channel, and loyalty tier breakdown of customer drop-off alongside the conversion funnel.
+![Task 2 - Churn & Retention](screenshots/task2.png)
 
 ### Task 3: Repeat Purchase Analysis
-> Purchase frequency comparison across regions, age groups, loyalty tiers, and top-performing product categories.
-![Task 3 - Repeat Purchase](screenshots/task3_repeat_purchase.png)
+* Purchase frequency comparison across regions, age groups, loyalty tiers, and top-performing product categories.
+![Task 3 - Repeat Purchase](screenshots/task3.png)
 
 ### Task 4: Promotion & Loyalty Impact
-> Analysis of Creators Club points issuance vs. redemptions, promotional purchase lifts, and tier churn dynamics.
-![Task 4 - Promotion & Loyalty](screenshots/task4_loyalty_impact.png)
+* Analysis of Creators Club points issuance vs. redemptions, promotional purchase lifts, and tier churn dynamics.
+![Task 4 - Promotion & Loyalty](screenshots/task4.png)
 
 ### Task 5: Store & Channel Performance vs Retention
-> Average transaction values, churn rates across store formats (Flagship, Outlet, Franchise, Online), and vintage retention correlations.
-![Task 5 - Store Performance](screenshots/task5_store_performance.png)
+* Average transaction values, churn rates across store formats (Flagship, Outlet, Franchise, Online), and vintage retention correlations.
+![Task 5 - Store Performance](screenshots/task5.png)
 
 ### Task 6: Customer Lifetime Value (CLV) Analysis
-> CLV metrics mapped against recency (Days Since Last Purchase) and cross-analyzed by regional loyalty tiers.
-![Task 6 - CLV Analysis](screenshots/task6_clv_analysis.png)
+* CLV metrics mapped against recency (Days Since Last Purchase) and cross-analyzed by regional loyalty tiers.
+![Task 6 - CLV Analysis](screenshots/task6.png)
 
 ### Task 7: Executive Summary & Customer Prioritization
-> Multi-page executive overview summarizing core KPIs, monthly spending trends, channel share, and CLV segment distributions.
-![Task 7 - Executive Summary](screenshots/task7_executive_summary.png)
+* Multi-page executive overview summarizing core KPIs, monthly spending trends, channel share, and CLV segment distributions.
+![Task 7 - Executive Summary](screenshots/task7(i).png)
 
 ---
 
@@ -161,6 +161,6 @@ IF(
 ## 👤 Author & Contact
 Harsh Srivastav
 
-Role: Data Analyst / BI Developer
+**Role:** Data Analyst / BI Developer
 
-Domain Focus: Retail Analytics & Business Intelligence
+**Domain Focus:** Retail Analytics & Business Intelligence
